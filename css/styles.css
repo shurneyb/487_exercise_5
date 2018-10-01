@@ -1,0 +1,8 @@
+table, th, td {
+    border: 1px solid black;
+    font-weight: 300;
+}
+
+#all-state-team{
+  margin-top: 20px;
+}
